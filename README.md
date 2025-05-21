@@ -44,12 +44,19 @@ The **Reverse Supply Chain Optimizer** is an end-to-end machine learning solutio
 
 ## 🛠 Folder Structure
 Reverse-Supply-Chain-Optimizer/
+
 ├── phase_1_product_return_prediction/
+
 ├── phase_2_return_cost_estimation/
+
 ├── phase_3_reverse_logistics_optimization/
+
 ├── phase_4_inventory_optimization/
+
 ├── phase_5_integration_notebook/
+
 ├── requirements.txt
+
 └── README.md
 
 
